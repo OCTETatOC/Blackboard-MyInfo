@@ -127,12 +127,12 @@ String lname = "";
 </div>
 
 	<div class="left">
-<!--<a href="https://idcard.oberlin.edu/form/photo/" title="Change your photo" target="_blank"> -->
+<a href="https://blackboard.oberlin.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_395_1" title="Change your photo" target="_blank"> 
 <img src="https://octet1.csr.oberlin.edu/octet/Bb/Photos/expo/<%=username%>/profileImage" width="121" alt="your image"/>
-<!-- <p id="text">
+ <p id="text">
 //UPDATE PHOTO </p>
 //</a>
--->
+
 </div>	
 											    
 <div class="right">
