@@ -130,8 +130,6 @@ String lname = "";
 	<div class="left">
 <a href="https://blackboard.oberlin.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_395_1" title="Change your photo" target="_blank"> 
 <img src="https://octet1.csr.oberlin.edu/octet/Bb/Photos/expo/<%=username%>/profileImage" width="121" alt="your image"/>
- <p id="text">
-UPDATE PHOTO </p>
 </a>
 
 </div>	
@@ -158,5 +156,6 @@ UPDATE PHOTO </p>
 	}%>
 </div>
 <br/>
+<span> <u><a href="https://blackboard.oberlin.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_395_1">Update Photo</a></u></span>
 <span> <u><a href="https://blackboard.oberlin.edu/webapps/blackboard/execute/editUser?context=self_modify">Update Info</a></u></span>
 </bbData:context>
