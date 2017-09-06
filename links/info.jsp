@@ -48,6 +48,7 @@ dd {
 }
 
 #text {
+	opacity: 0.5;
 	position: absolute;
 	color: white;
 	font-size: 12px;
