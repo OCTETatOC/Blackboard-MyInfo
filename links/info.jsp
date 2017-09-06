@@ -156,6 +156,6 @@ String lname = "";
 	}%>
 </div>
 <br/>
-<span> <u><a href="https://blackboard.oberlin.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_395_1">Update Photo</a></u></span>
+<span> <u><a href="https://blackboard.oberlin.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_395_1">Update Photo</a></u></span><br/>
 <span> <u><a href="https://blackboard.oberlin.edu/webapps/blackboard/execute/editUser?context=self_modify">Update Info</a></u></span>
 </bbData:context>
