@@ -54,7 +54,7 @@ dd {
 	font-size: 12px;
 	font-weight: bold;
 	left: 16px;
-	top: 165px;
+	top: 16px;
 	text-shadow: 2px 1px darkseagreen;
 }
  .group:after {
