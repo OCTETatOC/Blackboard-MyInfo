@@ -50,10 +50,10 @@ dd {
 #text {
 	position: absolute;
 	color: white;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: bold;
 	left: 16px;
-	top: 175px;
+	top: 165px;
 	text-shadow: 2px 1px darkseagreen;
 }
  .group:after {
@@ -130,8 +130,8 @@ String lname = "";
 <a href="https://blackboard.oberlin.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_395_1" title="Change your photo" target="_blank"> 
 <img src="https://octet1.csr.oberlin.edu/octet/Bb/Photos/expo/<%=username%>/profileImage" width="121" alt="your image"/>
  <p id="text">
-//UPDATE PHOTO </p>
-//</a>
+UPDATE PHOTO </p>
+</a>
 
 </div>	
 											    
